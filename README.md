@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LahadMbacke)](https://github.com/LahadMbacke/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LahadMbacke&theme=python-dark)](https://git.io/streak-stats)
